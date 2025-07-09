@@ -38,8 +38,8 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_title=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prozzinho&show_icons=true&theme=radical&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prozzinho&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -47,7 +47,7 @@
 <!-- Activity Graph -->
 ### 🔥 Recent GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Prozzinho&theme=dracula&area=true&hide_border=true" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 
 <!-- Snake animation -->
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Prozzinho/Prozzinho/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---

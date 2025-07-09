@@ -18,7 +18,7 @@
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack & Favorite Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,tailwind,figma,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,express,figma,git,github,vscode&perline=8" />
 </p>
 
 ---

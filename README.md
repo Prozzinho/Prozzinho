@@ -8,7 +8,7 @@
 
 <!-- Quick Stats / Identity -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="100" style="border-radius: 50%; border: 2px solid #ccc;" alt="Avatar" />
+  <img src="[https://avatars.githubusercontent.com/u/000000?v=4](https://github.com/account)" width="100" style="border-radius: 50%; border: 2px solid #ccc;" alt="Avatar" />
   <h3>Hey, I'm <strong>[Christopher]</strong> 👋</h3>
   <p><i>Currently training in web and mobile development at <strong>Adrar</strong>.</i></p>
 </div>

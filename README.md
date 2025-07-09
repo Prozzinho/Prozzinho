@@ -1,10 +1,5 @@
 <!-- Hero Header -->
 <h1 align="center">🚀 Welcome !</h1>
-<p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+fullstack+developer;Creative+.+Curious+.+Efficient;Always+learning+new+things!;Welcome+to+my+world+of+code+🌍](https://readme-typing-svg.demolab.io?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+fullstack+developer;Creative+.+Curious+.+Efficient;Always+learning+new+things!;Welcome+to+my+world+of+code+🌍
-)" alt="Typing SVG" />
-</p>
-
 ---
 
 <!-- Quick Stats / Identity -->
@@ -45,14 +40,6 @@
 
 ---
 
-<!-- Activity Graph -->
-### 🔥 Recent GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Prozzinho&theme=dracula&area=true&hide_border=true" />
-</p>
-
----
-
 <!-- Connect -->
 ### 📬 Social media
 <p align="center">
@@ -67,12 +54,5 @@
 - 🖤 I code best between midnight and 3 AM.
 - 🧙‍♂️ Favorite `git` spell? `git reset --hard origin/main` (use with caution 🔥).
 - 🎮 Huge fan of video games, 🎵 music and anime/manga.
-
----
-
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/Prozzinho/Prozzinho/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---

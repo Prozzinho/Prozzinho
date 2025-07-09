@@ -18,7 +18,7 @@
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack & Favorite Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,express,figma,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,express,figma,c,codepen,discord,gmail,instagram,linkedin,ps,git,github,vscode&perline=8" />
 </p>
 
 ---
@@ -55,9 +55,7 @@
 <!-- Connect -->
 ### 📬 Get in Touch
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/christopher-pradat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>Color=white"/></a>
 </p>
 
 ---
@@ -67,6 +65,7 @@
 - 💡 I probably have more projects locally than on GitHub.
 - 🖤 I code best between midnight and 3 AM.
 - 🧙‍♂️ Favorite `git` spell? `git reset --hard origin/main` (use with caution 🔥).
+- 🎮 Huge fan of video games, 🎵 music and anime/manga.
 
 ---
 
@@ -76,8 +75,3 @@
 </p>
 
 ---
-
-<p align="center">
-  Made with ❤️ by [Your Name or Pseudo] — Thanks for stopping by 🙌
-</p>
-

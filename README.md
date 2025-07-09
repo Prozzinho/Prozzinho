@@ -1,7 +1,8 @@
 <!-- Hero Header -->
 <h1 align="center">🚀 Welcome !</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+fullstack+developer;Creative+.+Curious+.+Efficient;Always+learning+new+things!;Welcome+to+my+world+of+code+🌍" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+fullstack+developer;Creative+.+Curious+.+Efficient;Always+learning+new+things!;Welcome+to+my+world+of+code+🌍](https://readme-typing-svg.demolab.io?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+fullstack+developer;Creative+.+Curious+.+Efficient;Always+learning+new+things!;Welcome+to+my+world+of+code+🌍
+)" alt="Typing SVG" />
 </p>
 
 ---
